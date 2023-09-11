@@ -1,0 +1,12 @@
+{
+  "name": "email-dashboard",
+  "version": "1.0.0",
+  "description": "Tests for EmailDashboard component",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^27.0.6",
+    "@types/jest": "^27.0.1"
+  }
+}
